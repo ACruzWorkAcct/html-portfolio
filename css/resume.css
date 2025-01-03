@@ -1,0 +1,41 @@
+.resume {
+    color: black;
+    font: 1.2rem "Times New Roman", serif;
+    margin: 20px;
+    max-width: 850px;
+
+    div[resume-header] {
+        line-height: 1.5;
+    }
+
+    div[section-title] {
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    li {
+        margin: 0px;
+    }
+    ul {
+        margin: 0;
+    }
+}
+
+.job-section {
+    margin-bottom: 20px;
+
+    li {
+        margin-top: 10px;
+    }
+}
+
+.job-content {
+    line-height: 30px;
+    list-style: none;
+}
+
+.skills-section {
+    li {
+        margin-top: 10px;
+    }
+}
