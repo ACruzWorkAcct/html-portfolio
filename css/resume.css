@@ -21,6 +21,11 @@
     }
 }
 
+.section-content {
+    line-height: 30px;
+    list-style: none;
+}
+
 .job-section {
     margin-bottom: 20px;
 
